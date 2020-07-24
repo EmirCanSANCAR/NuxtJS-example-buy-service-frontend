@@ -1,4 +1,4 @@
-# buy-service-frontend
+# NuxtJS Example buy-service-frontend
 
 ## Build Setup
 
